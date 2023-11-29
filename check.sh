@@ -203,7 +203,7 @@ function UnlockChatGPTTest() {
 
 
 function StreamingMediaUnlockTest(){
-    	Install_oth
+    	# Install_oth
     	clear
     	About
 	UnlockNetflixTest
